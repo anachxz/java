@@ -1,15 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.mycompany.vetores;
 
 import java.util.Scanner;
 
-/**
- *
- * @author aluno
- */
 import java.util.Scanner;
 
 public class Vetores {
